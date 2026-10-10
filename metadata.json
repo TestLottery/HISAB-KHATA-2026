@@ -1,0 +1,6 @@
+{
+  "name": "হিসাব খাতা",
+  "description": "দৈনন্দিন আয় ও ব্যয়ের সহজ ও নির্ভরযোগ্য ডিজিটাল হিসাব খাতা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
